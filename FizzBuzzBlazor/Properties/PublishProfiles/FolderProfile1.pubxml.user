@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\mi6ka\OneDrive\Работен плот\netlification</_PublishTargetUrl>
+    <History>True|2022-07-12T21:01:25.6346722Z;True|2022-07-12T23:45:15.8869571+03:00;True|2022-07-12T23:41:47.5874193+03:00;True|2022-07-12T23:14:50.7554522+03:00;True|2022-07-11T18:12:49.9991175+03:00;True|2022-07-11T18:12:24.9226919+03:00;True|2022-07-11T17:55:13.8457724+03:00;</History>
+  </PropertyGroup>
+</Project>
